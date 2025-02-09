@@ -1,36 +1,4 @@
-The Project Gutenberg eBook, Warwick the Kingmaker, by Charles Oman
-
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-
-Title: Warwick the Kingmaker
-
-
-Author: Charles Oman
-
-
-
-Release Date: May 14, 2018  [eBook #57164]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-
-***START OF THE PROJECT GUTENBERG EBOOK WARWICK THE KINGMAKER***
-
-
-E-text prepared by Graeme Mackreth and the Online Distributed Proofreading
-Team (http://www.pgdp.net) from page images generously made available by
-Internet Archive (https://archive.org)
+*** START OF THE PROJECT GUTENBERG EBOOK 57164 ***
 
 
 
@@ -475,7 +443,7 @@ CHAPTER II
 THE HOUSE OF NEVILLE
 
 
-Of all the great houses of mediæval England, the Nevilles of Raby were
+Of all the great houses of mediÃ¦val England, the Nevilles of Raby were
 incontestably the toughest and the most prolific. From the reign of
 John to the reign of Elizabeth their heritage never once passed into
 the female line, and in all the fourteen generations which lived and
@@ -541,7 +509,7 @@ and Buckinghamshire, but the great bulk of them lying massed in North
 Yorkshire and South Durham, around Raby and Middleham, the two strong
 castles which were the centres of his influence. Hence it was not
 surprising that King Richard the Second, when he lavished titles and
-honours broadcast on the nobility after his surprising _coup d'état_ of
+honours broadcast on the nobility after his surprising _coup d'Ã©tat_ of
 1397, should have singled out the head of the Nevilles for conciliation
 and preferment. Accordingly, Ralph Neville, then in the thirty-fourth
 year of his age, was raised to the dignity of an earl. Curiously
@@ -591,7 +559,7 @@ had his will; and the next spring there sailed from Southampton the
 first of those many gallant hosts of Englishmen who were to win so
 many fruitless battles to their country's final loss, and leave their
 bones behind to moulder in French soil, in the trenches of Harfleur and
-Orleans or on the fields of Beaugé and Patay.
+Orleans or on the fields of BeaugÃ© and Patay.
 
 Every reader of Shakespeare has met Earl Ralph in the English camp on
 the eve of the battle of Agincourt, remembers his downhearted wish for
@@ -1056,7 +1024,7 @@ Henry the Sixth. No more critical time could have been found in the
 whole century in which to place power and influence in the hands of a
 young, able, and ambitious man. For it was in 1449 that the doom of the
 house of Lancaster was settled by the final collapse of the English
-domination in France. In March came the fatal attack on Fougères which
+domination in France. In March came the fatal attack on FougÃ¨res which
 reopened the war, an attack of which it is hard to say whether it was
 more foolish or wicked. In August, September, and October occurred with
 bewildering rapidity the fall of the great towns of eastern and central
@@ -1580,7 +1548,7 @@ and townsmen to prayers, in good hope that the shield of their
 warrior-patron would be stretched over them to ward off the plundering
 bands from the North, the
 
- Gens Boreæ, gens perfidiæ, gens prona rapinæ,
+ Gens BoreÃ¦, gens perfidiÃ¦, gens prona rapinÃ¦,
 
 whose advent always sent Abbot Whethamsted into an ecstasy of bad Latin
 verses.
@@ -1793,7 +1761,7 @@ He raised the strength of his troops to about two thousand men, and
 was then able to assume the offensive against the neighbouring French
 garrisons. His greatest success was when, in the spring of the third
 year of his office, he led a body of eight hundred combatants on a
-daring raid as far as Étaples, forty miles down the coast of Picardy,
+daring raid as far as Ã‰taples, forty miles down the coast of Picardy,
 and took the town together with a fleet of wine-ships from the south of
 France, which he put up to ransom, and so raised a sum large enough to
 pay his men for some months. Falling into a disagreement also with the
@@ -1814,11 +1782,11 @@ the folks of Canterbury and Sandwich before him, and thanked them
 for their good hearts in victualling of Calais, and prayed them for
 continuance therein." That those rumours of coming trouble were not
 all vain was shown a few months later, for a Norman fleet under Peter
-de Brézé threw four thousand men ashore near Sandwich in August, and
+de BrÃ©zÃ© threw four thousand men ashore near Sandwich in August, and
 the French stormed the town from the land side, held it for a day, and
 sacked it from garret to cellar. It was this disaster which England
 owed to Margaret of Anjou, for she had deliberately suggested the time
-and place of attack to de Brézé, in order to bring discredit on the
+and place of attack to de BrÃ©zÃ©, in order to bring discredit on the
 government of the Duke of York.
 
 It is curious to note how the work of the day of St. Albans was undone,
@@ -1834,7 +1802,7 @@ from their offices of Chancellor and Treasurer, and replaced them by
 the Earl of Shrewsbury, a strong adherent of the Court party, and by
 Wainfleet Bishop of Winchester. It was widely believed that York, who
 had come to the Council with no knowledge of the Queen's intended
-_coup d'état_, would have met with an ill end if his kinsman the Duke
+_coup d'Ã©tat_, would have met with an ill end if his kinsman the Duke
 of Buckingham had not succeeded in aiding him to escape. Of all the
 offices bestowed as the result of St. Albans fight, Warwick's post at
 Calais was the only one which was not now forfeited. Probably the Queen
@@ -1879,7 +1847,7 @@ trouble was required to induce the sons of those who had fallen at St.
 Albans--the young Somerset, Clifford, and Northumberland--to pardon
 those on whose swords was their fathers' blood. But the King's untiring
 efforts produced the desired result. York, Salisbury, and Warwick
-promised to endow the Abbey of St. Albans with a sum of £45 a year,
+promised to endow the Abbey of St. Albans with a sum of Â£45 a year,
 to be spent in masses for the souls of the slain, and to make large
 money payments to their heirs--York gave the young Duke of Somerset
 and his mother five thousand marks, and Warwick made over one thousand
@@ -1960,7 +1928,7 @@ in size with theirs." Finally he took three of the carracks and put the
 other two to flight. Nearly a thousand Spaniards were slain, and the
 prisoners were so many that the prisons of Calais could hardly contain
 them. The prizes were richly laden, and their contents were valued
-at no less than £10,000. The markets of Calais and Kent were for the
+at no less than Â£10,000. The markets of Calais and Kent were for the
 moment so charged with Southern goods that a shilling bought that year
 more than two would have bought the year before.
 
@@ -3400,7 +3368,7 @@ at once manifest; the battle began to roll northward and westward,
 as the Lancastrians gave back and tried to form a new front against
 the unsuspected enemy. But the moment that they began to retire the
 whole Yorkist line followed them. The arrival of Norfolk had been
-to Warwick's men what the arrival of Blücher was to Wellington's
+to Warwick's men what the arrival of BlÃ¼cher was to Wellington's
 at Waterloo; after having fought all the day on the defensive they
 had their opportunity at last, and were eager to use it. When the
 Lancastrians had once begun to retire they found themselves so hotly
@@ -3748,7 +3716,7 @@ the zeal of Louis the Eleventh, and to gather help from her various
 relatives on the Continent. Escaping from Scotland by the Irish Sea,
 she rounded the Land's End and came ashore with her young son in
 Brittany. The Duke gave her twelve thousand crowns, and passed her
-on to her father Réné in Anjou. From his Court she went on to King
+on to her father RÃ©nÃ© in Anjou. From his Court she went on to King
 Louis, who lay at Rouen. With him she had more success than might have
 been expected, though far less of course than she had hoped. Louis
 was able to show that he had already got together a fleet, reinforced
@@ -3759,12 +3727,12 @@ frankly in the war, and to put at Margaret's disposition a force
 for the invasion of England. The way in which Louis chose a leader
 for this army was very characteristic of the man. He had in close
 confinement at the time a favourite of his father and an enemy of his
-own, Peter de Brézé, Count of Maulévrier and Seneschal of Normandy.
-De Brézé was a gallant knight and a skilled leader; only a few years
+own, Peter de BrÃ©zÃ©, Count of MaulÃ©vrier and Seneschal of Normandy.
+De BrÃ©zÃ© was a gallant knight and a skilled leader; only a few years
 before he had distinguished himself in the English war, and among other
 achievements had taken and sacked Sandwich. The King now offered him
 the choice of staying in prison or of taking charge of an expedition to
-Scotland in aid of Margaret. De Brézé accepted with alacrity the latter
+Scotland in aid of Margaret. De BrÃ©zÃ© accepted with alacrity the latter
 alternative, as much, we are told, from chivalrous desire to assist
 a distressed Queen as from dislike for the inside of the dungeons of
 Loches. Quite satisfied, apparently, at getting an enemy out of the
@@ -3821,7 +3789,7 @@ summer at Boulogne, tampering with the garrison of Calais, who had
 fallen into mutiny on account of long arrears of pay. But Calais failed
 to revolt, Louis made no serious attempt on England, and the Queen
 at last grew impatient and determined to start herself for England,
-though she could only rely on the assistance of Peter de Brézé and his
+though she could only rely on the assistance of Peter de BrÃ©zÃ© and his
 two thousand men. Setting sail early in October, she passed up the
 eastern coast, and landed in Northumberland, expecting that all the
 North Country would rise to her aid. No general insurrection followed,
@@ -3847,7 +3815,7 @@ formidable did their task appear. The approach of winter had prevented
 the Scots from putting an army into the field, and the Lancastrians
 and their French allies had made no attempt to push out from their
 castles. All that they had done was to strengthen the three strongholds
-and fill them with provisions. In Alnwick lay Peter de Brézé's son and
+and fill them with provisions. In Alnwick lay Peter de BrÃ©zÃ©'s son and
 some of the Frenchmen, together with Lord Hungerford. Somerset, who
 had dropped his secret negotiations with Warwick when his mistress
 returned from France, held Bamborough; with him were Lord Roos and
@@ -3855,7 +3823,7 @@ Jasper Earl of Pembroke. Sir Ralph Percy, the fighting-man of the Percy
 clan--for his nephew the heir of Northumberland was a minor--had made
 himself strong in Dunstanburgh. Meanwhile the Queen, on the approach
 of Warwick, had quitted her adherents and set sail for Scotland with
-her son and her treasure, under convoy of de Brézé and the main body of
+her son and her treasure, under convoy of de BrÃ©zÃ© and the main body of
 the French mercenaries. But the month was now November, the seas were
 rough, and off Bamborough she was caught in a storm; her vessel, with
 three others, was driven against the iron-bound coast, and she herself
@@ -3959,7 +3927,7 @@ the siege of Alnwick. Somerset lay with them, neither overmuch trusted
 nor overmuch contemned by his late enemies. Warwick's last siege,
 however, was not destined to come to such an uneventful close as those
 of Bamborough and Dunstanburgh. Lord Hungerford and the younger de
-Brézé made no signs of surrender, and protracted their defence till
+BrÃ©zÃ© made no signs of surrender, and protracted their defence till
 January 6th 1463.
 
 On that day, at five o'clock in the dusk of the winter morning, a
@@ -3971,7 +3939,7 @@ Fired by the promise of an English dukedom, to be given when King Henry
 should come to his own again, Angus got together twenty thousand men,
 and slipping through the Central Marches, and taking to the Watling
 Street, presented himself most unexpectedly before the English camp.
-With him was Peter de Brézé, anxious to save his beleaguered son, and
+With him was Peter de BrÃ©zÃ©, anxious to save his beleaguered son, and
 the Queen's French mercenaries.
 
 For once in his life Warwick was taken by surprise. The Scots showed in
@@ -3982,7 +3950,7 @@ followed save insignificant skirmishing; Angus had come not to fight,
 but only to save the garrison. When the English blockading force was
 withdrawn, a party of Scotch horse rode up to the postern-gate of the
 castle and invited the besieged to escape; accordingly Lord Hungerford,
-the younger de Brézé, Sir Richard Tunstal, and the great majority of
+the younger de BrÃ©zÃ©, Sir Richard Tunstal, and the great majority of
 the garrison, hastily issued forth and joined the relieving force. Then
 Angus, to the surprise of the English, drew off his men, and fell back
 hastily over the Border.
@@ -4043,7 +4011,7 @@ castle by treachery, and sent for the Lancastrians from over the
 Border. Lord Hungerford came up, and once more received command of the
 castle which he had evacuated five months before. The news of this
 exploit of Grey's was too much for the loyalty of Sir Ralph Percy, the
-renegade governor of Bamborough. When de Brézé and Hungerford came
+renegade governor of Bamborough. When de BrÃ©zÃ© and Hungerford came
 before his gates he deliberately surrendered the castle to them without
 resistance.
 
@@ -4059,16 +4027,16 @@ from their base by forcing the Scots to conclude peace. Accordingly he
 left the strongholds on his right and made straight for the Border.
 His first exploit was to relieve Norham Castle, on the English side of
 the Tweed, which was beset by four thousand Scotch borderers, aided
-by Peter de Brézé and his mercenaries. Queen Margaret herself was in
+by Peter de BrÃ©zÃ© and his mercenaries. Queen Margaret herself was in
 their camp, and had dragged her unfortunate consort down to the seat
 of war. When the English appeared, the Scots and French raised the
 siege and retired behind the Tweed, where they set themselves to guard
 the ford called the Holybank. But Warwick was determined to cross; he
 won the passage by force of arms, and drove off its defenders. A few
-miles across the Border he found de Brézé's Frenchmen resting in an
+miles across the Border he found de BrÃ©zÃ©'s Frenchmen resting in an
 abbey, and fell on them with such vehemence that several hundreds were
 taken prisoners, including the Lord of Graville and Raoul d'Araines, de
-Brézé's chief lieutenants.
+BrÃ©zÃ©'s chief lieutenants.
 
 One chronicler records a curious incident at this fight. "At the
 departing of Sir Piers de Bressy and his fellowship, there was one
@@ -5445,7 +5413,7 @@ to pardon the Earl, to whom, he said, he was more beholden than to any
 other man living.[17]
 
 The Queen so pressed, and urged beside by the counsellors of her father
-King Réné, agreed to pardon Warwick. Louis then broached the second
+King RÃ©nÃ©, agreed to pardon Warwick. Louis then broached the second
 point in his scheme. The new alliance, he urged, should be sealed by
 a marriage; the Prince of Wales was now seventeen and the Lady Anne,
 Warwick's younger daughter, sixteen. What match could be fairer or more
@@ -6765,7 +6733,7 @@ _Crown 8vo. 2s. 6d. each._
 HENRY II. By Mrs. J.R. Green.
 
  _TIMES._--"It is delightfully real and readable, and in spite of
- severe compression has the charm of a mediæval romance."
+ severe compression has the charm of a mediÃ¦val romance."
 
 EDWARD I. By Prof. T.F. Tout, M.A. History, The Owens College,
 Manchester.
@@ -6775,7 +6743,7 @@ Manchester.
 
 HENRY VII. By Dr. James Gairdner, C.B.
 
- _ATHENÆUM._--"The best account of Henry VII. that has yet appeared."
+ _ATHENÃ†UM._--"The best account of Henry VII. that has yet appeared."
 
 CARDINAL WOLSEY. By Bishop Creighton, D.D.
 
@@ -6833,365 +6801,4 @@ MACMILLAN AND CO., LTD., LONDON.
 
 
 
-***END OF THE PROJECT GUTENBERG EBOOK WARWICK THE KINGMAKER***
-
-
-******* This file should be named 57164-8.txt or 57164-8.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/5/7/1/6/57164
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57164 ***
